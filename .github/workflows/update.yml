@@ -2,7 +2,7 @@ name: Finance Cat Dashboard
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 아침 9시(KST 기준)
+    - cron: "*/30 * * * *" # 30분마다 실행 (0분, 30분)
   push:
     branches: [ "main" ]
   workflow_dispatch:
