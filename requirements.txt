@@ -1,0 +1,6 @@
+FinanceDataReader
+requests
+pandas
+yfinance
+lxml
+plotly
