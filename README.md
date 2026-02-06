@@ -6,11 +6,11 @@
 | 종목 | 현재가 | 등락률 |
 | :--- | :---: | :---: |
 | **삼성전자** | 158,700 KRW | 🔵 -0.38% |
-| **비트코인** | 97,133,360 KRW | 🔵 -8.96% |
+| **비트코인** | 96,835,344 KRW | 🔵 -9.24% |
 
 ### 📸 오늘의 힐링 짤
-![Random Cat](https://cdn2.thecatapi.com/images/anv.jpg)
+![Random Cat](https://cdn2.thecatapi.com/images/MTU1NzE4MQ.jpg)
 
 ---
-⏳ 마지막 업데이트: 2026-02-06 06:18:13 (KST)
+⏳ 마지막 업데이트: 2026-02-06 06:19:08 (KST)
 *Powered by GitHub Actions & FinanceDataReader*
