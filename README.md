@@ -1,30 +1,15 @@
-# 🐱 Finance Cat: 오늘의 증시 & 힐링 고양이
 
-이 리포지토리는 GitHub Actions를 사용하여 매일의 주가 정보와 랜덤 고양이 사진을 자동으로 업데이트합니다.
+# 🐱 금융 고양이 대시보드 (Finance Cat)
 
----
+매일 정해진 시간에 주가와 고양이를 배달해 드립니다!
 
-## 📊 오늘의 경제 브리핑
-> **"{selected_quote}"**
+### 💰 오늘의 시세
+* **삼성전자**: 159,100 KRW
+* **비트코인**: 97,415,416 KRW
 
-| 항목 | 현재가 | 등락 (전일대비) |
-| :--- | :--- | :--- |
-| **삼성전자 (005930)** | {samsung_price:,.0f} KRW | {samsung_diff} |
-| **비트코인 (BTC)** | {btc_price:,.0f} KRW | {btc_diff} |
+### 📸 오늘의 힐링 고양이
+![Random Cat](https://cdn2.thecatapi.com/images/BTiGuPOqW.jpg)
 
 ---
-
-## 🐈 오늘의 힐링 고양이
-> 시세 확인하느라 고생한 당신, 고양이 한 장 보고 가세요!
-
-![Random Cat]({cat_url})
-
----
-
-### 🛠️ 자동화 정보
-* **업데이트 시간**: {now} (KST)
-* **데이터 출처**: FinanceDataReader, The Cat API
-* **상태**: ![GitHub Actions](https://img.shields.io/badge/Status-Running-brightgreen)
-
----
-*자동 업데이트 봇에 의해 관리됩니다.*
+⏳ 마지막 업데이트: 2026-02-06 06:02:18 (KST)
+*본 리포지토리는 GitHub Actions를 통해 자동화되었습니다.*
