@@ -1,15 +1,16 @@
 
-# 🐱 금융 고양이 대시보드 (Finance Cat)
+# 😿 금융 고양이 대시보드 (Finance Cat)
 
-매일 정해진 시간에 주가와 고양이를 배달해 드립니다!
+### 📉 주인님... 한강 물 온도가 따뜻하네요... (시장 나쁨)
 
-### 💰 오늘의 시세
-* **삼성전자**: 158,900 KRW
-* **비트코인**: 97,969,696 KRW
+| 종목 | 현재가 | 등락률 |
+| :--- | :---: | :---: |
+| **삼성전자** | 🔵 158,700 KRW (-0.38%) |
+| **비트코인** | ➖ 97,493,624 KRW (nan%) |
 
-### 📸 오늘의 힐링 고양이
-![Random Cat](https://cdn2.thecatapi.com/images/ae4.gif)
+### 📸 오늘의 힐링 짤
+![Random Cat](https://cdn2.thecatapi.com/images/d9i.jpg)
 
 ---
-⏳ 마지막 업데이트: 2026-02-06 06:06:30 (KST)
-*본 리포지토리는 GitHub Actions를 통해 자동화되었습니다.*
+⏳ 마지막 업데이트: 2026-02-06 06:14:17 (KST)
+*Powered by GitHub Actions & FinanceDataReader*
