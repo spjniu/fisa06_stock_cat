@@ -1,7 +1,7 @@
 
-# 😿 국장 고양이 대시보드 (K-Stock Cat)
+# 😻 국장 고양이 대시보드 (K-Stock Cat)
 
-### 📉 파란나라를 보았니... 꿈과 희망이... (시장 나쁨)
+### 🚀 국장이 살아나고 있어요! 가즈아! (시장 좋음)
 
 | 종목 | 현재가 | 등락률 |
 | :--- | :---: | :---: |
@@ -11,11 +11,11 @@
 | **현대차** | 467,500 KRW | 🔵 -4.30% |
 | **POSCO홀딩스** | 359,500 KRW | 🔵 -2.04% |
 | **카카오** | 56,200 KRW | 🔵 -3.44% |
-| **비트코인** | 103,051,480 KRW | 🔴 +11.67% |
+| **비트코인** | 104,169,608 KRW | 🔴 +12.88% |
 
 ### 📸 오늘의 힐링 짤
-![Random Cat](https://cdn2.thecatapi.com/images/MTY0Mjk0Mw.jpg)
+![Random Cat](https://cdn2.thecatapi.com/images/ch5.jpg)
 
 ---
-⏳ 마지막 업데이트: 2026-02-07 02:05:07 (KST)
+⏳ 마지막 업데이트: 2026-02-07 04:19:00 (KST)
 *Powered by GitHub Actions & FinanceDataReader*
