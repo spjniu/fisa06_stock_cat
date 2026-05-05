@@ -14,8 +14,8 @@
 | **비트코인** | 119,262,736 KRW | 🔴 +1.15% |
 
 ### 📸 오늘의 힐링 짤
-![Random Cat](https://cdn2.thecatapi.com/images/agn.jpg)
+![Random Cat](https://cdn2.thecatapi.com/images/7n2.jpg)
 
 ---
-⏳ 마지막 업데이트: 2026-05-05 22:56:39 (KST)
+⏳ 마지막 업데이트: 2026-05-05 23:52:40 (KST)
 *Powered by GitHub Actions & FinanceDataReader*
