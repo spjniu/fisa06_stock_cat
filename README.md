@@ -11,11 +11,11 @@
 | **현대차** | 655,000 KRW | 🔵 -1.65% |
 | **POSCO홀딩스** | 447,500 KRW | 🔴 +0.90% |
 | **카카오** | 41,850 KRW | 🔴 +0.12% |
-| **비트코인** | 116,906,832 KRW | 🔴 +0.29% |
+| **비트코인** | 117,387,560 KRW | 🔴 +0.70% |
 
 ### 📸 오늘의 힐링 짤
-![Random Cat](https://cdn2.thecatapi.com/images/2nu.jpg)
+![Random Cat](https://cdn2.thecatapi.com/images/e3i.jpg)
 
 ---
-⏳ 마지막 업데이트: 2026-05-24 09:55:21 (KST)
+⏳ 마지막 업데이트: 2026-05-24 11:17:57 (KST)
 *Powered by GitHub Actions & FinanceDataReader*
